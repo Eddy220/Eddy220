@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eddy Kim</h1>
 <h3 align="center">A healthcare professional turned software developer!</h3>
 
-- 🔭 I’m currently working on a full-stack application for users to create and share gift wish-lists called [Unwrapped](https://unwrapped-app.herokuapp.com)
+- 🔭 I’m currently working on a full-stack web app for users to create and share gift wish-lists called [Unwrapped](https://unwrapped-app.herokuapp.com)
 
 - 👨‍💻 All of my projects are available at [https://eddy220.github.io/](https://eddy220.github.io/)
 
